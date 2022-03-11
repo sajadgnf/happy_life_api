@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.3",
     "mongoose": "^6.2.5",
-    "vercel": "^24.0.0"
+    "nodemon": "^2.0.15"
   }
 }
