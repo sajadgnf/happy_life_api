@@ -1,7 +1,9 @@
 const express = require('express')
 const productsRoutes = require("./routes/product-routes")
 const app = express()
+const cors = require('cors')
 let port = process.env.PORT || 8000
+
 app.use(
     cors({
         origin: "*"
