@@ -1,4 +1,19 @@
+const path = require('path')
 const products = require("../model/products")
+
+const multer = require('multer')
+const storage = multer.diskStorage({
+    destination: (req, file, cb) => {
+        cb(null, 'assets')
+    },
+
+    filename: (req, file, cb) => {
+        console.log(file)
+        cb(null, Date.now() + path.extname(file.originalname))
+    }
+})
+
+const ulpoad = multer({ storage: storage })
 
 const getProducts = (req, res, next) => {
     res.json(products)
@@ -10,7 +25,7 @@ const getOneProduct = (req, res, next) => {
 }
 
 const addProduct = (req, res, next) => {
-    const {id, title, price} = req.body
+    const { id, title, price } = req.body
 
     const newProduct = {
         id: id,
@@ -19,7 +34,7 @@ const addProduct = (req, res, next) => {
     }
 
     products.push(newProduct)
-    res.json({message: "Product Created"})
+    res.json({ message: "Product Created" })
 }
 
 exports.getProducts = getProducts
