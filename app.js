@@ -1,5 +1,5 @@
 const express = require('express')
-const productsRoutes = require("./routes/products-routes")
+const productsRoutes = require("./routes/product-routes")
 const app = express()
 let port = process.env.PORT || 8000
 
