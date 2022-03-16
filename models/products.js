@@ -18,7 +18,7 @@ let buff = [
 let base64data = buff.map(item => item.toString('base64'))
 
 
-const allProducts = {
+const products = {
     products: [
         {
             id: "1",
@@ -86,7 +86,7 @@ const allProducts = {
     ]
 }
 
-exports.allPproducts = allProducts
+exports.products = products
 
 // const mongoose = require('mongoose')
 
