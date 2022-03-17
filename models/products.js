@@ -78,7 +78,7 @@ const products = {
             price: "۱۷۲۰۰۰۰۰",
             discount: ' ۱۶۸۹۵۰۰۰',
             image: {
-                main: `data:image/png;base64, ${base64data[10]}`,
+                main: `https://dkstatics-public.digikala.com/digikala-products/c41b2a78390a0a0a23d4b4a4c0a3de926cdffa83_1641484318.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90`,
                 image1: `data:image/png;base64, ${base64data[11]}`,
                 image2: `data:image/png;base64, ${base64data[12]}`,
             }
