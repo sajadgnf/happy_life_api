@@ -1,5 +1,5 @@
-{
-    "mobiles": [
+const products = {
+    mobiles: [
         {
             "id": "1",
             "title": "گوشی موبایل نوکیا مدل G10 TA-1334 دو سیم کارت ظرفیت 64 گیگابایت همراه با رم 4 گیگابایت...",
@@ -226,7 +226,7 @@
             }
         }
     ],
-    "headphone": [
+    headphones: [
         {
             "id": "1",
             "title": "هدفون بی سیم آنکر مدل soundCore Life Q10...",
@@ -262,7 +262,8 @@
             }
         }
     ],
-    "amazing": [
+    accessories: [],
+    amazing: [
         {
             "id": "1",
             "title": "هدفون بی سیم آنکر مدل soundCore Life Q10...",
@@ -312,7 +313,7 @@
             }
         }
     ],
-    "mostVisited": [
+    mostVisited: [
         {
             "id": "1",
             "title": "گوشی موبایل شیائومی مدل 11T Pro 2107113SG 5G دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
@@ -369,7 +370,7 @@
             }
         }
     ],
-    "mostSales": [
+    mostSales: [
         {
             "id": "1",
             "title": "هدفون بی سیم شیائومی مدل Redmi AirDots New J05LS",
@@ -438,3 +439,5 @@
         }
     ]
 }
+
+exports.products = products
