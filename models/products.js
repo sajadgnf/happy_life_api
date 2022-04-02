@@ -10,8 +10,8 @@ const products = {
             "brand": "nokia",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی"
+                "white",
+                "black"
             ],
             "internalMemory": 64,
             "image": {
@@ -30,8 +30,8 @@ const products = {
             "brand": "samsung",
             "size": '6.0',
             "colors": [
-                "آبی",
-                "مشکی"
+                "blue",
+                "black"
             ],
             "internalMemory": 256,
             "image": {
@@ -50,8 +50,8 @@ const products = {
             "brand": "xiaomi",
             "size": '6.0',
             "colors": [
-                "آبی",
-                "طلایی"
+                "blue",
+                "gold"
             ],
             "internalMemory": 256,
             "image": {
@@ -70,9 +70,9 @@ const products = {
             "brand": "xiaomi",
             "size": '6.0',
             "colors": [
-                "مشکی",
-                "آبی",
-                "طلایی"
+                "black",
+                "blue",
+                "gold"
             ],
             "internalMemory": 256,
             "image": {
@@ -91,9 +91,9 @@ const products = {
             "brand": "xiaomi",
             "size": "6.0",
             "colors": [
-                "مشکی",
-                "آبی",
-                "سفید"
+                "black",
+                "blue",
+                "white"
             ],
             "internalMemory": 256,
             "image": {
@@ -112,10 +112,10 @@ const products = {
             "brand": "apple",
             "size": '6.0',
             "colors": [
-                "مشکی",
-                "قرمز",
-                "طلایی",
-                "سفید"
+                "black",
+                "red",
+                "gold",
+                "white"
             ],
             "internalMemory": 128,
             "image": {
@@ -134,10 +134,10 @@ const products = {
             "brand": "apple",
             "size": "6.0",
             "colors": [
-                "مشکی",
-                "قرمز",
-                "طلایی",
-                "سفید"
+                "black",
+                "red",
+                "gold",
+                "white"
             ],
             "internalMemory": 128,
             "image": {
@@ -156,9 +156,9 @@ const products = {
             "brand": "samsung",
             "size": "6.0",
             "colors": [
-                "مشکی",
-                "طلایی",
-                "قرمز"
+                "black",
+                "gold",
+                "red"
             ],
             "internalMemory": 256,
             "image": {
@@ -177,8 +177,8 @@ const products = {
             "brand": "samsung",
             "size": '6.0',
             "colors": [
-                "مشکی",
-                "خاکستری"
+                "black",
+                "gray"
             ],
             "internalMemory": 256,
             "image": {
@@ -197,8 +197,8 @@ const products = {
             "brand": "apple",
             "size": '6.0',
             "colors": [
-                "مشکی",
-                "آبی"
+                "black",
+                "blue"
             ],
             "internalMemory": 128,
             "image": {
@@ -217,9 +217,9 @@ const products = {
             "brand": "apple",
             "size": '6.0',
             "colors": [
-                "مشکی",
-                "آبی",
-                "خاکستری"
+                "black",
+                "blue",
+                "gray"
             ],
             "internalMemory": 128,
             "image": {
@@ -238,9 +238,9 @@ const products = {
             "brand": "samsung",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "قرمز",
-                "خاکستری"
+                "white",
+                "red",
+                "gray"
             ],
             "internalMemory": 128,
             "image": {
@@ -262,7 +262,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "anker",
             "colors": [
-                "مشکی"
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/c3452958c621a9416ab30b19892a4fef9c0d7ca5_1602946320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -281,7 +281,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "anker",
             "colors": [
-                "مشکی"
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/88b596a380b40c32e37635dc77691217baebf537_1626161180.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -300,8 +300,8 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "xiaomi",
             "colors": [
-                "مشکی",
-                'سفید'
+                "black",
+                'white'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/e8ee56f107cb77a2867eee0aa876b797f8fd5190_1644765699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -324,7 +324,7 @@ const products = {
             "connection": "بی سیم",
             "ears": 'دو گوشی',
             "colors": [
-                "مشکی"
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/c3452958c621a9416ab30b19892a4fef9c0d7ca5_1602946320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -343,7 +343,7 @@ const products = {
             "brand": "adata",
             "internalMemory": "2 ترابایت",
             "colors": [
-                "مشکی"
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/728333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -362,8 +362,8 @@ const products = {
             "brand": "nokia",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی"
+                "white",
+                "black"
             ],
             "internalMemory": 64,
             "image": {
@@ -383,8 +383,8 @@ const products = {
             "brand": "samsung",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "قرمز"
+                "white",
+                "red"
             ],
             "internalMemory": 256,
             "image": {
@@ -405,9 +405,9 @@ const products = {
             "brand": "xiaomi",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی",
-                "آبی"
+                "white",
+                "black",
+                "blue"
             ],
             "internalMemory": 256,
             "image": {
@@ -426,8 +426,8 @@ const products = {
             "brand": "xiaomi",
             "size": '6.0',
             "colors": [
-                "طلایی",
-                "مشکی"
+                "gold",
+                "black"
             ],
             "internalMemory": 128,
             "image": {
@@ -447,7 +447,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "anker",
             "colors": [
-                "مشکی"
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/88b596a380b40c32e37635dc77691217baebf537_1626161180.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -465,8 +465,8 @@ const products = {
             "brand": "onepluse",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی"
+                "white",
+                "black"
             ],
             "internalMemory": 256,
             "image": {
@@ -485,9 +485,9 @@ const products = {
             "brand": "apple",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی",
-                "طلایی"
+                "white",
+                "black",
+                "gold"
             ],
             "internalMemory": '1 ترابایت',
             "image": {
@@ -509,8 +509,8 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "xiaomi",
             "colors": [
-                "سفید",
-                "مشکی"
+                "white",
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/e8ee56f107cb77a2867eee0aa876b797f8fd5190_1644765699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -527,7 +527,7 @@ const products = {
             "available": true,
             "brand": "samsung",
             "colors": [
-                "مشکی"
+                "black"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/112556332.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -545,8 +545,8 @@ const products = {
             "brand": "apple",
             "size": '10',
             "colors": [
-                "سفید",
-                "مشکی",
+                "white",
+                "black",
             ],
             "internalMemory": '2 ترابایت',
             "image": {
@@ -564,7 +564,7 @@ const products = {
             "available": true,
             "brand": "silicon power",
             "colors": [
-                "مشکی"
+                "black"
             ],
             "internalMemory": "2 ترابایت",
             "image": {
@@ -583,9 +583,9 @@ const products = {
             "brand": "xiaomi",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی",
-                "آبی"
+                "white",
+                "black",
+                "blue"
             ],
             "internalMemory": 256,
             "image": {
@@ -604,8 +604,8 @@ const products = {
             "brand": "honor",
             "size": '6.0',
             "colors": [
-                "سفید",
-                "مشکی"
+                "white",
+                "black"
             ],
             "internalMemory": 256,
             "image": {
