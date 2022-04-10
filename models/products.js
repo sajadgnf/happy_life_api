@@ -566,13 +566,9 @@ const products = {
             "details": "با استفاده از شارژر بی سیم می‌توان گوشی یا تبلت خود را به آسانی و سرعت بیشتری شارژ کرد. برند اپل جزو محبوب‌ترین برند‌های جهان است و استفاده از محصولات و گوشی‌های اپل امروزه بسیار متداول است. استفاده از اکسسوری‌های اپل با توجه به طراحی زیبا و کیفیت بالا مورد توجه بسیاری از کاربران و طرفداران این برند است.",
             "price": 1100000,
             "available": true,
-            "connection": "بی سیم",
-            "ears": 'دو گوشی',
-            "brand": "samsung",
+            "brand": "apple",
             "colors": [
-                'white',
-                'black',
-                'blue'
+                'white'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/87568a116b22f042a36c53066d3b1f2f8aa52a7c_1607170532.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
