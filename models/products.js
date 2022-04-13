@@ -10,8 +10,8 @@ const products = {
             "brand": "نوکیا",
             "size": '6.0',
             "colors": [
-                "white",
-                "black"
+                "سفید",
+                "مشکی"
             ],
             "internalMemory": 64,
             "image": {
@@ -30,8 +30,8 @@ const products = {
             "brand": "سامسونگ",
             "size": '6.0',
             "colors": [
-                "blue",
-                "black"
+                "آبی",
+                "مشکی"
             ],
             "internalMemory": 256,
             "image": {
@@ -50,8 +50,8 @@ const products = {
             "brand": "شیائومی",
             "size": '6.0',
             "colors": [
-                "blue",
-                "gold"
+                "آبی",
+                "طلایی"
             ],
             "internalMemory": 256,
             "image": {
@@ -70,9 +70,9 @@ const products = {
             "brand": "آنر",
             "size": '6.0',
             "colors": [
-                "black",
-                "blue",
-                "gold"
+                "مشکی",
+                "آبی",
+                "طلایی"
             ],
             "internalMemory": 256,
             "image": {
@@ -91,9 +91,9 @@ const products = {
             "brand": "شیائومی",
             "size": "6.0",
             "colors": [
-                "black",
-                "blue",
-                "white"
+                "مشکی",
+                "آبی",
+                "سفید"
             ],
             "internalMemory": 256,
             "image": {
@@ -112,10 +112,10 @@ const products = {
             "brand": "اپل",
             "size": '6.0',
             "colors": [
-                "black",
-                "red",
-                "gold",
-                "white"
+                "مشکی",
+                "قرمز",
+                "طلایی",
+                "سفید"
             ],
             "internalMemory": 128,
             "image": {
@@ -134,10 +134,10 @@ const products = {
             "brand": "اپل",
             "size": "6.0",
             "colors": [
-                "black",
-                "red",
-                "gold",
-                "white"
+                "مشکی",
+                "قرمز",
+                "طلایی",
+                "سفید"
             ],
             "internalMemory": 128,
             "image": {
@@ -156,9 +156,9 @@ const products = {
             "brand": "سامسونگ",
             "size": "6.0",
             "colors": [
-                "black",
-                "gold",
-                "red"
+                "مشکی",
+                "طلایی",
+                "قرمز"
             ],
             "internalMemory": 256,
             "image": {
@@ -177,8 +177,8 @@ const products = {
             "brand": "سامسونگ",
             "size": '6.0',
             "colors": [
-                "black",
-                "gray"
+                "مشکی",
+                "خاکستری"
             ],
             "internalMemory": 256,
             "image": {
@@ -197,8 +197,8 @@ const products = {
             "brand": "اپل",
             "size": '6.0',
             "colors": [
-                "black",
-                "blue"
+                "مشکی",
+                "آبی"
             ],
             "internalMemory": 128,
             "image": {
@@ -217,9 +217,9 @@ const products = {
             "brand": "اپل",
             "size": '6.0',
             "colors": [
-                "black",
-                "blue",
-                "gray"
+                "مشکی",
+                "آبی",
+                "خاکستری"
             ],
             "internalMemory": 128,
             "image": {
@@ -238,9 +238,9 @@ const products = {
             "brand": "سامسونگ",
             "size": '6.0',
             "colors": [
-                "white",
-                "red",
-                "gray"
+                "سفید",
+                "قرمز",
+                "خاکستری"
             ],
             "internalMemory": 128,
             "image": {
@@ -259,8 +259,8 @@ const products = {
             "brand": "وان پلاس",
             "size": '6.0',
             "colors": [
-                "white",
-                "black"
+                "سفید",
+                "مشکی"
             ],
             "internalMemory": 256,
             "image": {
@@ -282,7 +282,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/c3452958c621a9416ab30b19892a4fef9c0d7ca5_1602946320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -301,7 +301,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/88b596a380b40c32e37635dc77691217baebf537_1626161180.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -320,8 +320,8 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "شیائومی",
             "colors": [
-                "black",
-                'white'
+                "مشکی",
+                'سفید'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/e8ee56f107cb77a2867eee0aa876b797f8fd5190_1644765699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -340,7 +340,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "اپل",
             "colors": [
-                'white'
+                'سفید'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/38f228ef585426366f9b0d9d91f3f6f7d438592d_1634644654.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -359,9 +359,9 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "سامسونگ",
             "colors": [
-                'white',
-                'black',
-                'blue'
+                'سفید',
+                'مشکی',
+                'آبی'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/6f5a2ae1c9c34367e20cb226383b8fdab50a12aa_1630153236.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -380,7 +380,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "سونی",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/be3485365d8f0e98431bb6748f2e3443a5de301d_1602489366.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -399,7 +399,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "ریزر",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/70a5f9414e60ed2dc549e74ac0e9f88b36bfa4fe_1602408321.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -418,7 +418,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/76f385e0086f07bd2895eda92c91a80e79c83cf1_1625491117.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -437,7 +437,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/659384b24178593366392e21fb57d8185c303b93_1628493782.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -455,8 +455,8 @@ const products = {
             "available": true,
             "brand": "شیائومی",
             "colors": [
-                "black",
-                "white"
+                "مشکی",
+                "سفید"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/119156302.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -475,7 +475,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/88b596a380b40c32e37635dc77691217baebf537_1626161180.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -494,7 +494,7 @@ const products = {
             "brand": "ای دیتا",
             "internalMemory": "2 ترابایت",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/728333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -513,8 +513,8 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "شیائومی",
             "colors": [
-                "black",
-                'white'
+                "مشکی",
+                'سفید'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/e8ee56f107cb77a2867eee0aa876b797f8fd5190_1644765699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -533,7 +533,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "اپل",
             "colors": [
-                'white'
+                'سفید'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/38f228ef585426366f9b0d9d91f3f6f7d438592d_1634644654.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -550,7 +550,7 @@ const products = {
             "available": true,
             "brand": "کوئست",
             "colors": [
-                'white'
+                'سفید'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/9ad2493ab28dd52a667c7eeabb79e2e67cd5a4b5_1644924465.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -569,9 +569,9 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "سامسونگ",
             "colors": [
-                'white',
-                'black',
-                'blue'
+                'سفید',
+                'مشکی',
+                'آبی'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/6f5a2ae1c9c34367e20cb226383b8fdab50a12aa_1630153236.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -588,7 +588,7 @@ const products = {
             "available": true,
             "brand": "اپل",
             "colors": [
-                'white'
+                'سفید'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/87568a116b22f042a36c53066d3b1f2f8aa52a7c_1607170532.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -607,7 +607,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "سونی",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/be3485365d8f0e98431bb6748f2e3443a5de301d_1602489366.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -626,7 +626,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "ریزر",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/70a5f9414e60ed2dc549e74ac0e9f88b36bfa4fe_1602408321.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -645,7 +645,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                'black',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/76f385e0086f07bd2895eda92c91a80e79c83cf1_1625491117.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -661,8 +661,8 @@ const products = {
             "available": true,
             "brand": "نیلکین",
             "colors": [
-                'black',
-                'blue'
+                'مشکی',
+                'آبی'
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/3c47a9b6440cb2439e73fcf95d440f0f92ff9735_1634479161.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -698,7 +698,7 @@ const products = {
             "available": true,
             "brand": "سیلیکون پاور",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "internalMemory": "2 ترابایت",
             "image": {
@@ -716,7 +716,7 @@ const products = {
             "available": true,
             "brand": "سامسونگ",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/112556332.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -738,7 +738,7 @@ const products = {
             "connection": "بی سیم",
             "ears": 'دو گوشی',
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/c3452958c621a9416ab30b19892a4fef9c0d7ca5_1602946320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -757,7 +757,7 @@ const products = {
             "brand": "ای دیتا",
             "internalMemory": "2 ترابایت",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/728333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -776,8 +776,8 @@ const products = {
             "brand": "نوکیا",
             "size": '6.0',
             "colors": [
-                "white",
-                "black"
+                "سفید",
+                "مشکی"
             ],
             "internalMemory": 64,
             "image": {
@@ -797,8 +797,8 @@ const products = {
             "brand": "سامسونگ",
             "size": '6.0',
             "colors": [
-                "white",
-                "red"
+                "سفید",
+                "قرمز"
             ],
             "internalMemory": 256,
             "image": {
@@ -819,9 +819,9 @@ const products = {
             "brand": "شیائومی",
             "size": '6.0',
             "colors": [
-                "white",
-                "black",
-                "blue"
+                "سفید",
+                "مشکی",
+                "آبی"
             ],
             "internalMemory": 256,
             "image": {
@@ -840,8 +840,8 @@ const products = {
             "brand": "شیائومی",
             "size": '6.0',
             "colors": [
-                "gold",
-                "black"
+                "طلایی",
+                "مشکی"
             ],
             "internalMemory": 128,
             "image": {
@@ -861,7 +861,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/88b596a380b40c32e37635dc77691217baebf537_1626161180.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -879,8 +879,8 @@ const products = {
             "brand": "وان پلاس",
             "size": '6.0',
             "colors": [
-                "white",
-                "black"
+                "سفید",
+                "مشکی"
             ],
             "internalMemory": 256,
             "image": {
@@ -899,9 +899,9 @@ const products = {
             "brand": "اپل",
             "size": '6.0',
             "colors": [
-                "white",
-                "black",
-                "gold"
+                "سفید",
+                "مشکی",
+                "طلایی"
             ],
             "internalMemory": '1 ترابایت',
             "image": {
@@ -923,8 +923,8 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "شیائومی",
             "colors": [
-                "white",
-                "black"
+                "سفید",
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/e8ee56f107cb77a2867eee0aa876b797f8fd5190_1644765699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
@@ -941,7 +941,7 @@ const products = {
             "available": true,
             "brand": "سامسونگ",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/112556332.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
@@ -959,8 +959,8 @@ const products = {
             "brand": "اپل",
             "size": '10',
             "colors": [
-                "white",
-                "black",
+                "سفید",
+                "مشکی",
             ],
             "internalMemory": '2 ترابایت',
             "image": {
@@ -978,7 +978,7 @@ const products = {
             "available": true,
             "brand": "سیلیکون پاور",
             "colors": [
-                "black"
+                "مشکی"
             ],
             "internalMemory": "2 ترابایت",
             "image": {
@@ -997,9 +997,9 @@ const products = {
             "brand": "شیائومی",
             "size": '6.0',
             "colors": [
-                "white",
-                "black",
-                "blue"
+                "سفید",
+                "مشکی",
+                "آبی"
             ],
             "internalMemory": 256,
             "image": {
@@ -1018,8 +1018,8 @@ const products = {
             "brand": "آنر",
             "size": '6.0',
             "colors": [
-                "white",
-                "black"
+                "سفید",
+                "مشکی"
             ],
             "internalMemory": 256,
             "image": {
