@@ -681,7 +681,7 @@ const products = {
             "ears": 'دو گوشی',
             "brand": "انکر",
             "colors": [
-                'sony',
+                'مشکی',
             ],
             "image": {
                 "main": "https://dkstatics-public.digikala.com/digikala-products/659384b24178593366392e21fb57d8185c303b93_1628493782.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
